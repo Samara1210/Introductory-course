@@ -27,3 +27,7 @@ https://drive.google.com/drive/folders/1mO3EKcKh4ORNRCObphpi7mFSfRAJ_x3c
 
 Quiz:
 https://create.kahoot.it/details/874abbe4-10a8-4061-8aea-45065074abad
+
+Video introdacion to PL and Computer Science
+https://www.youtube.com/watch?v=zOjov-2OZ0E
+
